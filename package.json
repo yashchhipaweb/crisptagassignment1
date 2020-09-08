@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "letzb",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon config.server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.8.9",
+    "mongoose-timestamp": "^0.6.0",
+    "nodemon": "^2.0.2",
+    "underscore": "^1.10.2"
+  }
+}
